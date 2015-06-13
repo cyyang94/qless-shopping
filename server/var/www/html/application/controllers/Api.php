@@ -115,11 +115,64 @@ class Api extends CI_Controller {
             die(json_encode($result));
         }
         
+        /*
+         * token
+         * item_id
+         * quantity
+         */
         public function editItem(){
             $result = $this->db->query("call editItem()",array(
                 $this->input->post("token"),
                 $this->input->post("item_id"),
                 $this->input->post("quantity")
             ))->result_array();
+             die(json_encode($result));
         }
+        
+        /*
+         * token
+         * item_id
+         * quantity
+         */
+        public function deleteItem(){
+            $result = $this->db->query("call deleteItem()",array(
+                $this->input->post("token"),
+                $this->input->post("item_id"),
+                $this->input->post("quantity")
+            ))->result_array();
+             die(json_encode($result));
+        }
+        
+        /*
+         * token
+         * cart
+         * 
+         */
+        
+        public function getStatus(){
+            $result = $this->db->query("call getStatus( ?, ?)",array(
+                $this->input->post('token'),
+                $this->input->post('cart')
+            ))->result_array();
+            die(json_encode($result));
+        }
+        
+        /*
+         * token
+         * ref_no(dummy)
+         * amount
+         */
+        
+        public function addPayment(){
+            $result = $this->db->query("call addPayment( ?, ?, ?)",array(
+                $this->input->post('token'),
+                "RFA39t8F",
+                $this->input->post('amount')
+            ))->result_array();
+             die(json_encode($result));
+        }
+        
+        
+        
+        
 }
