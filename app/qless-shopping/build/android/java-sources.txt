@@ -1,0 +1,8 @@
+"/Users/cyyang/Documents/mobileApp/qless-shopping/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/cyyang/Documents/mobileApp/qless-shopping/build/android/gen/com/cyyang/qless/ApplicationStylesheet.java"
+"/Users/cyyang/Documents/mobileApp/qless-shopping/build/android/gen/com/cyyang/qless/AssetCryptImpl.java"
+"/Users/cyyang/Documents/mobileApp/qless-shopping/build/android/gen/com/cyyang/qless/QlessShoppingActivity.java"
+"/Users/cyyang/Documents/mobileApp/qless-shopping/build/android/gen/com/cyyang/qless/QlessShoppingAppInfo.java"
+"/Users/cyyang/Documents/mobileApp/qless-shopping/build/android/gen/com/cyyang/qless/QlessShoppingApplication.java"
+"/Users/cyyang/Documents/mobileApp/qless-shopping/build/android/gen/com/cyyang/qless/R.java"
+"/Users/cyyang/Documents/mobileApp/qless-shopping/build/android/gen/ti/modules/titanium/ui/R.java"
