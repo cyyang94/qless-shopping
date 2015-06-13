@@ -1,0 +1,50 @@
+dependencies: \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiUITableViewRowProxy.m \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiUITableViewRowProxy.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiViewProxy.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiProxy.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiBase.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiThreading.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiPublicAPI.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiEvaluator.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/KrollContext.h \
+  headers/JavaScriptCore/TiCore.h headers/JavaScriptCore/Ti.h \
+  headers/JavaScriptCore/TiBase.h headers/JavaScriptCore/TiContextRef.h \
+  headers/JavaScriptCore/TiObjectRef.h \
+  headers/JavaScriptCore/TiValueRef.h \
+  headers/JavaScriptCore/WebKitAvailability.h \
+  headers/JavaScriptCore/TiStringRef.h \
+  headers/JavaScriptCore/TiStringRefCF.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/KrollCallback.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/KrollObject.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiUIView.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiAnimation.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiPoint.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiDimension.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiColor.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/ListenerEntry.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiModule.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiUtils.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/WebFont.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiFile.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiBuffer.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiBlob.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/LayoutConstraint.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiGradient.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiRect.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiViewTemplate.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiUITableViewAction.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiUITableViewSectionProxy.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiUITableView.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiUISearchBarProxy.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiUIRefreshControlProxy.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/Webcolor.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/ImageLoader.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/APSHTTPClient/APSHTTPClient.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/APSHTTPClient/APSHTTPRequest.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/APSHTTPClient/APSHTTPResponse.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/APSHTTPClient/APSHTTPPostForm.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/APSHTTPClient/APSHTTPHelper.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiSelectedCellbackgroundView.h \
+  /Users/cyyang/Documents/mobileApp/qless-shopping/build/iphone/Classes/TiLayoutQueue.h

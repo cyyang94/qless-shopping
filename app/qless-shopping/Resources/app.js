@@ -6,5 +6,9 @@ con = require('core/network');
 Win = require('core/Win');
 WinOrder = require('core/WinOrder');
 
+
 loginPage = require('view/loginPage');
 cart = require('view/cart');
+checkout = require('view/checkout');
+itemDetail = require('view/QrConfirmPage');
+register = require('view/RegisterPage');
