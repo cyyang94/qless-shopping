@@ -1,1 +1,0 @@
-/Users/cyyang/Documents/mobileApp/qless-shopping/Resources/view/QrConfirmPage.js

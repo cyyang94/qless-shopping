@@ -12,3 +12,5 @@ cart = require('view/cart');
 checkout = require('view/checkout');
 itemDetail = require('view/QrConfirmPage');
 register = require('view/RegisterPage');
+polling = require('view/polling');
+end = require('view/end');

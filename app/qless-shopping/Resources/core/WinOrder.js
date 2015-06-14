@@ -5,3 +5,6 @@ exports.login = counter++;
 exports.cart = counter++;
 exports.checkout = counter++;
 exports.QrConfirm = counter++;
+exports.polling = counter++;
+
+exports.end = counter++;
